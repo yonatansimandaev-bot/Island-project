@@ -16,3 +16,9 @@ The **Simandooev System** is a next-generation security framework designed to pr
 This system was architected entirely by Jonathan Simandooev. While AI (Gemini) was utilized for technical syntax execution, all core logic, security thresholds, and architectural designs remain the sole property of the founder. 
 
 *For inquiries or security audits, please contact the repository owner.*
+METHODOLOGY CLAIM
+The specific algorithmic approach of using sub-second keystroke intervals (measured in WPM) to trigger a sharded database lockout is the Original Methodology of Jonathan Simandooev.
+
+Design Credit: > * Concept & Logic: Jonathan Simandooev.
+
+Code Syntax Assistant: Gemini AI (acting as a compiler for the Founder's logic).
